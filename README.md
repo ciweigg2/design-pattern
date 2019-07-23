@@ -4,13 +4,13 @@
 
 ### 常用设计模式
 
-* [Proxy 代理模式](https://github.com/ciweigg2/tree/master/design-pattern/proxy)
+* [Proxy 代理模式](https://github.com/ciweigg2/design-pattern/tree/master/proxy)
 
-* [Factory 工厂模式](https://github.com/ciweigg2/tree/master/design-pattern/factory/README.md)
+* [Factory 工厂模式](https://github.com/ciweigg2/design-pattern/tree/master/factory/README.md)
 
 * [SingLeton 单例模式](./signle/README.md)
 
-* [Delegate 委派模式](https://github.com/ciweigg2/tree/master/design-pattern/delegate)
+* [Delegate 委派模式](https://github.com/ciweigg2/tree/master/design-pattern/tree/master/delegate)
 
 * [Strategy 策略模式](./strategy/README.md)
 
