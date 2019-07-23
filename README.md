@@ -10,7 +10,7 @@
 
 * [SingLeton 单例模式](./signle/README.md)
 
-* [Delegate 委派模式](https://github.com/ciweigg2/tree/master/design-pattern/tree/master/delegate)
+* [Delegate 委派模式](https://github.com/ciweigg2/design-pattern/tree/master/delegate)
 
 * [Strategy 策略模式](./strategy/README.md)
 
